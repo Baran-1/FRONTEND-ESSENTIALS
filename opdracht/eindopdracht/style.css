@@ -1,7 +1,11 @@
+#koptext{
+    background-color:white;
+    border-radius: 25%;
+}
 
 .container{
     display: flex;
-    
+
 }
 
 .col{
@@ -16,11 +20,45 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    
+
 }
 
 .button span{
-    
+
     font-size: 2em;
-    font-family: consolas;
+    font-family: serif Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul{
+    background-color: pink;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+li{
+    display: inline;
+    color: black;
+}
+
+
+li a{
+padding: 15px;
+text-decoration: none;
+color: rgb(255, 255, 255);
+}
+
+table{
+background-color: rgb(128, 0, 96);
+border-radius: 10px;
+padding-bottom: 20px;
+}
+
+th{
+padding: 20px;
+text-align: left;
+}
+
+td{
+text-align: left;
+
 }

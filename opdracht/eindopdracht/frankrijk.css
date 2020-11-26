@@ -1,0 +1,30 @@
+*{
+    font-size:0;
+}
+
+#container{
+    display: flex;
+    width: 900px;
+    height: 600px;
+    background-color:white;
+    border: 1px solid black;
+}
+
+
+
+#bovenkant{
+    width: 800px;
+    height: 600px;
+    background-color: blue;
+}
+#middenkant{
+    width: 800px;
+    height: 500px;
+    background-color: white;
+}
+
+#onderkant{
+    width: 800px;
+    height: 600px;
+    background-color: red;
+}
