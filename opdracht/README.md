@@ -12,6 +12,8 @@ Lees de instructies goed door.
 1. Maak vlag 1 t/m 9
 2. 10 = extra
 
+
+
 ### OPDRACHT 2 - Mondriaan
 
 Maak de opdracht Mondriaan.
