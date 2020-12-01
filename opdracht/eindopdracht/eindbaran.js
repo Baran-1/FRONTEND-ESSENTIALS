@@ -33,3 +33,6 @@ if(persoon.leeftijd == null){
     document.querySelector("body").style.backgroundColor = 'red';
  
 }
+
+document.title = persoon.voornaam;
+
